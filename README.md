@@ -10,7 +10,7 @@
 
 ## About Me
 
-Third-year Computer Engineering student (CGPA 8.85) building end-to-end AI/ML systems and data-driven applications. I work across computer vision, NLP, and full-stack development — from model training to deployed product.
+Fina-year Computer Engineering student (CGPA 8.78) building end-to-end AI/ML systems and data-driven applications. I work across computer vision, NLP, and full-stack development — from model training to deployed product.
 
 - B.Tech Computer Engineering, Sanjivani College of Engineering — Class of 2027
 - Focused on applied ML: medical imaging, anomaly detection, fraud/security systems
