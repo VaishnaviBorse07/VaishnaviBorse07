@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vaishnavi Borse
+# Hello, I'm Vaishnavi Borse
 
 ### Computer Engineering Student | AI/ML | Data Analytics | Full-Stack Development
 
