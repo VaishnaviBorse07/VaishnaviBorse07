@@ -12,11 +12,11 @@
 
 Third-year Computer Engineering student (CGPA 8.85) building end-to-end AI/ML systems and data-driven applications. I work across computer vision, NLP, and full-stack development — from model training to deployed product.
 
-- 🎓 B.Tech Computer Engineering, Sanjivani College of Engineering — Class of 2027
-- 🤖 Focused on applied ML: medical imaging, anomaly detection, fraud/security systems
-- 📊 Building data analytics and BI skills (SQL, Power BI, Pandas)
-- 🏆 Kaggle competitor (CEIP_Sanjeevani_DS — sensor anomaly detection)
-- 🌱 Currently deepening ML fundamentals for GATE CS 2027 prep
+- B.Tech Computer Engineering, Sanjivani College of Engineering — Class of 2027
+- Focused on applied ML: medical imaging, anomaly detection, fraud/security systems
+- Building data analytics and BI skills (SQL, Power BI, Pandas)
+- Kaggle competitor (CEIP_Sanjeevani_DS — sensor anomaly detection)
+- Currently deepening ML fundamentals for GATE CS 2027 prep
 
 ---
 
@@ -47,32 +47,32 @@ DenseNet121 (PyTorch) model for oral/dental condition classification, **91%+ acc
 `PyTorch` `DenseNet121` `Grad-CAM` `Flask` `Computer Vision`
 [View on GitHub →](https://github.com/VaishnaviBorse07/OralVision)
 
-### 📞 SecureCall AI — Real-Time Fraud Detection
+### SecureCall AI — Real-Time Fraud Detection
 Real-time call fraud detection system using WebSockets for live concurrent connections and pattern-based fraud scoring.
 `WebSockets` `Concurrency` `Fraud Detection` `Security`
 [View on GitHub →](https://github.com/VaishnaviBorse07/SecureCall)
 
-### 🌊 ZenFlow
+### ZenFlow
 Full-stack productivity/wellness app with a React frontend, FastAPI backend, and Docker-based deployment.
 `React` `FastAPI` `Docker` `Full-Stack`
 [View on GitHub →](https://github.com/VaishnaviBorse07/ZenFlow)
 
-### 🌱 Crop Disease Detection
+### Crop Disease Detection
 CNN-based plant disease classifier built with TensorFlow/Keras to support early intervention in crop management.
 `TensorFlow` `Keras` `Computer Vision` `Agriculture`
 [View on GitHub →](https://github.com/VaishnaviBorse07/Crop-Disease-Detection)
 
-### 🔍 CloneLens — Digital Identity Clone Detector
+### CloneLens — Digital Identity Clone Detector
 Detects deepfakes, synthetic content, and persona impersonation using multimodal AI analysis (vision + NLP).
 `Python` `Computer Vision` `NLP` `Multimodal AI` `Cybersecurity`
 [View on GitHub →](https://github.com/VaishnaviBorse07/CloneLens-Digital-Identity-Clone-Detector-)
 
-### 📊 NextGen Dashboard
+### NextGen Dashboard
 Interactive dashboard for campaign analytics, turning raw data into visual insight.
 `TypeScript` `Data Visualization` `Analytics`
 [View on GitHub →](https://github.com/VaishnaviBorse07/NextGen-Dashboard)
 
-### 🏥 Sensor Anomaly Detection (Kaggle)
+### Sensor Anomaly Detection (Kaggle)
 Competition notebook for the CEIP_Sanjeevani_DS challenge — KNN imputation, RobustScaler, and an ensemble (XGBoost, LightGBM, CatBoost, MLP) evaluated with StratifiedKFold.
 `Python` `XGBoost` `LightGBM` `CatBoost` `Ensemble Modeling`
 
@@ -82,16 +82,16 @@ Competition notebook for the CEIP_Sanjeevani_DS challenge — KNN imputation, Ro
 
 | Project | Area | Stack |
 |---|---|---|
-| 🌱 SmartAgro Advisor | AI/ML for agriculture | Python |
-| 🧠 NLP Projects | Text preprocessing, topic modeling | Python |
-| 🍅 Tomato Leaf Disease Prediction | ML / Computer Vision | Python |
-| ⚖️ LexBharat | Legal-tech web platform | HTML/CSS |
-| 🏢 SartthiCRM | CRM web app | HTML |
-| ⚖️ TrueBlueLegals | Web development | HTML |
-| 🖥️ Multithreaded Web Server Scheduler | Systems/Networking | Python |
-| 🚗 Parking Management | Application development | Python |
-| 🌾 Smart Yield Predictor | Machine Learning | Python |
-| 🏢 Odoo | Full-stack module dev | TypeScript/JavaScript |
+| SmartAgro Advisor | AI/ML for agriculture | Python |
+| NLP Projects | Text preprocessing, topic modeling | Python |
+| Tomato Leaf Disease Prediction | ML / Computer Vision | Python |
+| LexBharat | Legal-tech web platform | HTML/CSS |
+| SartthiCRM | CRM web app | HTML |
+| TrueBlueLegals | Web development | HTML |
+| Multithreaded Web Server Scheduler | Systems/Networking | Python |
+| Parking Management | Application development | Python |
+| Smart Yield Predictor | Machine Learning | Python |
+| Odoo | Full-stack module dev | TypeScript/JavaScript |
 
 ---
 
